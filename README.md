@@ -1,5 +1,6 @@
 # JVM Benchmark
-Java version of the benchmark to compare and contrast the relatively performance of various different languages/runtimes.
+Java version of the benchmark to compare and contrast the relatively performance 
+of various different languages/runtimes. The test model consists of *149,837* vertices and *299,707* triangles.
 
 ## Requirements
 - Java 11
