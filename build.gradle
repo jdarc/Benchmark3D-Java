@@ -1,0 +1,13 @@
+plugins {
+    id 'java'
+    id 'application'
+    id 'idea'
+}
+
+repositories {
+    mavenCentral()
+}
+
+application {
+    mainClassName = 'benchmark.Program'
+}
